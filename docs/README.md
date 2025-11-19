@@ -1,4 +1,4 @@
-# OctoAcme Project Management Documentation
+# OctoAcme Project Management Documentation 
 
 Welcome to the central reference for OctoAcme’s project management practices.
 
